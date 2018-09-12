@@ -4,25 +4,26 @@
 Steps___ 
 
 
-1. Python installation for Windows #######
+# 1. Python installation for Windows
 
 >> https://www.howtogeek.com/197947/how-to-install-python-on-windows/
 
 
 
 
-2. pip installation #######
+# 2. pip installation
 
 
 >> https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
 
 
 
-3. Tensorflow installation ######
+# 3. Tensorflow installation
 
-# For CPU
+For CPU--- 
 pip install tensorflow
-# For GPU
+
+For GPU---
 pip install tensorflow-gpu
 
 >> https://www.tensorflow.org/install/install_windows
@@ -30,7 +31,7 @@ pip install tensorflow-gpu
 
 
 
-4. Other Librariies ###
+# 4. Other Librariies
 
 >> 
 pip install pillow
@@ -43,7 +44,7 @@ pip install numpy
 pip install 
 
 
-5. Dependencies ###
+# 5. Dependencies
 
 Protobuf 2.6
 Pillow 1.0
