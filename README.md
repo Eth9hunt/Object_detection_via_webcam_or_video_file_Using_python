@@ -57,8 +57,7 @@ Tensorflow<br/>
 # if Success fully completed then run real time object detection <br/>
 
 
-# for more detail...kindly contact me on linkedin <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
+# for more detail...kindly contact me on linkedin https://www.linkedin.com/in/resham-raj-shivwanshi-8a77a0159/
 
 
 
