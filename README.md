@@ -34,7 +34,7 @@ pip install tensorflow-gpu
 # 4. Other Librariies
 
 >> 
-pip install pillow<b/>
+<text>pip install pillow<text/>
 pip install lxml
 pip install jupyter
 pip install matplotlib
