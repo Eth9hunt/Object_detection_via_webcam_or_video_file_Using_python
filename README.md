@@ -27,8 +27,8 @@ Installing tensorflow:
 
 Installing dependencies######
 
-pip install pillow
-pip install lxml
+>pip install pillow
+>pip install lxml
 pip install jupyter
 pip install matplotlib
 pip install numpy
