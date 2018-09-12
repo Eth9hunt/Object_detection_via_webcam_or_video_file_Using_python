@@ -1,7 +1,7 @@
 # Object Recognition_python_tensorflow
 
 
-Steps___ 
+Steps___ <br/>
 
 
 # 1. Python installation for Windows
@@ -20,11 +20,11 @@ Steps___
 
 # 3. Tensorflow installation
 
-For CPU--- 
+For CPU--- <br/>
 pip install tensorflow
 
-For GPU---
-pip install tensorflow-gpu
+For GPU---<br/>
+pip install tensorflow-gpu<br/>
 
 >> https://www.tensorflow.org/install/install_windows
 
@@ -35,22 +35,22 @@ pip install tensorflow-gpu
 
 >> 
 pip install pillow<br/>
-pip install lxml
-pip install jupyter
-pip install matplotlib
-pip install opencv-python
-pip install opencv-contrib-python
-pip install numpy
-pip install 
+pip install lxml<br/>
+pip install jupyter<br/>
+pip install matplotlib<br/>
+pip install opencv-python<br/>
+pip install opencv-contrib-python<br/>
+pip install numpy<br/>
+pip install <br/>
 
 
 # 5. Dependencies
 
-Protobuf 2.6
-Pillow 1.0
-lxml
-Matplotlib
-Tensorflow
+Protobuf 2.6<br/>
+Pillow 1.0<br/>
+lxml<br/>
+Matplotlib<br/>
+Tensorflow<br/>
 
 
 
