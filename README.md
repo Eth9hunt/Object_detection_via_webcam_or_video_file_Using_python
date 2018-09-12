@@ -53,6 +53,12 @@ Matplotlib<br/>
 Tensorflow<br/>
 
 
+# Run object detection tutorial file and detect test images <br/>
+# if Success fully completed then run real time object detection <br/>
+
+
+# for more detail...kindly contact me on linkedin <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 
 
