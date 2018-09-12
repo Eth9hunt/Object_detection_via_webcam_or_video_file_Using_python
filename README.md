@@ -27,14 +27,14 @@ Installing tensorflow:
 
 Installing dependencies######
 
-$$$pip install pillow
-$$$pip install lxml
-pip install jupyter
-pip install matplotlib
-pip install numpy
-pip install 
-pip install opencv-python
-pip install opencv-contrib-python
+$$$ pip install pillow
+$$$ pip install lxml
+$$$ pip install jupyter
+$$$ pip install matplotlib
+$$$ pip install numpy
+$$$ pip install 
+$$$ pip install opencv-python
+$$$ pip install opencv-contrib-python
 
 
 
